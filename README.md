@@ -1,5 +1,5 @@
 
-Crypto Tracker
+## Crypto Tracker
 
 ## Table of Contents
 - [Overview](#overview)
