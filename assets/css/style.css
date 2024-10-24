@@ -521,7 +521,7 @@ footer .social-icons a i,
     gap: 30px;
 }
 
-.about-container .info h3{
+.about-container .info h2{
     color: var(--color-white);
     font-size: 24px;
     font-weight: 500;
